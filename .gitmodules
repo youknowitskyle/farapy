@@ -1,0 +1,12 @@
+[submodule "mae"]
+        path = mae
+        url = https://github.com/youknowitskyle/mae.git
+[submodule "ME-GraphAU-unilateral"]
+        path = ME-GraphAU-unilateral
+        url = https://github.com/youknowitskyle/ME-GraphAU-unilateral.git
+[submodule "farapy-data-tools"]
+        path = farapy-data-tools
+        url = https://github.com/youknowitskyle/farapy-data-tools.git
+[submodule "Pytorch-FAU"]
+        path = Pytorch-FAU
+        url = https://github.com/youknowitskyle/Pytorch-FAU.git
